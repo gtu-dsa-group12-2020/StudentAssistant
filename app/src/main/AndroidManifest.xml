@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.group12.studentassistant">
+    package="com.group12.studentAssistant">
 
     <application
         android:allowBackup="true"
