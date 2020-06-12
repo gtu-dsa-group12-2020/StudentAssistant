@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="half_activity_vertical_margin">8dp</dimen>
+    <dimen name="signin_horizontal_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="card_radius">4dp</dimen>
+    <dimen name="card_evelation">2dp</dimen>
+</resources>
