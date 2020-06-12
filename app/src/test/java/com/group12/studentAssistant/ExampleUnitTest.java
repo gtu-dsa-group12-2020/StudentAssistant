@@ -1,4 +1,4 @@
-package com.group12.studentassistant;
+package com.group12.studentAssistant;
 
 import org.junit.Test;
 
