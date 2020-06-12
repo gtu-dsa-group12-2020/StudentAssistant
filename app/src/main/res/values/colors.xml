@@ -12,4 +12,8 @@
     <color name="draculaPink">#ff79c6</color>
     <color name="draculaRed">#ff5555</color>
     <color name="draculaYellow">#f1fa8c</color>
+
+    <color name="colorText">#F8F8F2</color>
+    <color name="colorButton">#BD93F9</color>
+    <color name="colorBackground">#282A36</color>
 </resources>
